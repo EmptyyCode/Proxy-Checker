@@ -1,3 +1,7 @@
+<P align="center">
+<h1>Proxy Checker</h1>
+<h3>a multi threaded proxy checker that gets the job done</h3>
+</P>
 <p align="left">
 <h1>How To Use</h1>
 1 - paste your proxies in the proxies.txt file <br>
@@ -8,7 +12,7 @@
 </p>
  <br>
 <h1>Tips</h1>
-1 - if you have a huge proxylist , i recommend using an small timeout and targeting a website which is not sensitive , and then checking the "good" proxies again , but this time on your main target and with a bigger timeout ( for example you can choose a 2 second timeout and target https://webcode.me/ , then save the good proxies and then target your main website with 10 second timeout ( this really saves time ) /n
+1 - if you have a huge proxylist , i recommend using an small timeout and targeting a website which is not sensitive , and then checking the "good" proxies again , but this time on your main target and with a bigger timeout ( for example you can choose a 2 second timeout and target https://webcode.me/ , then save the good proxies and then target your main website with 10 second timeout ( this really saves time ) 
 <br>
 2 - if you are going to write your own checker , please use task factory instead of manual threading , and then use semaphore to limit the amount of running tasks , this makes your code way more readable and you dont even need to write an algorithm
  
