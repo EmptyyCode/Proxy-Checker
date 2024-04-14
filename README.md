@@ -1,6 +1,4 @@
-<br>
 <h1>How to use</h1>
-<br>
 1 - paste your proxies in the proxies.txt file <br>
 2 - run the app <br>
 3 - choose the amount of the threads ( i recommend not going over 100) <br>
