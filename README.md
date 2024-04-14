@@ -1,6 +1,5 @@
 <P align="center">
 <h1>Proxy Checker</h1>
-<h4>Multi Threaded Proxy Checker written in C#</h4>
 </P>
 <br>
 <img src="https://github.com/braxton123111/Proxy-Checker/assets/157948097/7784af88-7d68-471b-ac15-23203a5084fd">
