@@ -7,15 +7,9 @@
  
   </p>
 </p>
-<p>
-<p>
-<h1>How to use :</h1>
-</p>
-<h2>How to use :</h2>
-<h2>How to use :</h2>
-<h2>How to use :</h2>
-<h2>How to use :</h2>
-</p>
+
+<h1>How to use</h1>
+1 - paste your proxies in the proxies.txt file
 
 
 
