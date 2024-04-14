@@ -11,6 +11,7 @@
 4 - choose the amount of threads ( i recommend not going over 100) <br>
 5 - choose the timeout <br>
 6 - choose the target ( must be in this format: https://www.google.com/) <br>
+7 - take your time , when the checking is over the good proxies are saved in the good.txt file , dead proxies are also saved in the details.txt with some information regarding the error. <br>
 </p>
  <br>
 <h1>Tips</h1>
