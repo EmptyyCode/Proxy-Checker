@@ -3,7 +3,7 @@
 <h4>Multi Threaded Proxy Checker written in C#</h4>
 </P>
 <br>
-![demo](https://github.com/braxton123111/Proxy-Checker/assets/157948097/97723e1d-de6c-4243-836e-77bd9701e3da)
+<img src="https://github.com/braxton123111/Proxy-Checker/assets/157948097/7784af88-7d68-471b-ac15-23203a5084fd">
 <p align="left">
 <h1>How To Use</h1>
 1 - paste your proxies in the proxies.txt file <br>
