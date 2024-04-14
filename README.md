@@ -1,6 +1,6 @@
 <P align="center">
 <h1>Proxy Checker</h1>
-<h3>a multi threaded proxy checker that gets the job done</h3>
+<h4>Multi Threaded Proxy Checker written in C#</h4>
 </P>
 <p align="left">
 <h1>How To Use</h1>
