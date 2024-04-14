@@ -10,7 +10,7 @@
 3 - choose the proxy type ( http , https , socks4 , socks5)<br>
 4 - choose the amount of threads ( i recommend not going over 100) <br>
 5 - choose the timeout <br>
-6 - choose the target ( its google by default , you can choose your own in this format: https://www.google.com/) <br>
+6 - choose the target ( must be in this format: https://www.google.com/) <br>
 </p>
  <br>
 <h1>Tips</h1>
