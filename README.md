@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <h1>How To Use</h1>
 1 - paste your proxies in the proxies.txt file <br>
 2 - run the app <br>
