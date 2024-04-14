@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">Proxy Checker</h3>
+  <h1 align="center">Proxy Checker</h1>
 
   <p align="center">
     a multi threaded proxy checker which gets the job done
