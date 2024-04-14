@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
@@ -14,8 +14,8 @@ class Program
     //paste your proxies in this text file.
     static string[] proxies = File.ReadAllLines("proxies.txt");
     
-    // by default the proxies are checked on google , user can change this when the program is ran
-    static string target = "https://www.google.com/";
+    // target url , proxies are tested on this website
+    static string target;
     
     // just a variable for selecting the proxy type , which user is going to provide
     static string type;
@@ -44,7 +44,7 @@ class Program
         type = Console.ReadLine();
         
         // proxies are going to be tested on this website
-        Console.WriteLine("What is the target ? (google by default)");
+        Console.WriteLine("What is the target ?");
         target = Console.ReadLine();
         
         Console.WriteLine("How many Threads ? ");
